@@ -13,4 +13,5 @@ The project is a walkthrough of Active Directory on premises set up. Active Dire
   <li>Active Directory Domain Services</li>
   <li>PowerShell</li>
 </ul>   
-<br />
+<h2>Program walk-through:</h2>
+<h4><b>SOON</b></h4>
